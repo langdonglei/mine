@@ -1,0 +1,88 @@
+.container {
+    text-align :center;
+    margin-top :50px;
+}
+.title {
+    margin-bottom :15px;
+}
+button {
+    cursor        :pointer;
+    outline       :none;
+    border        :none;
+    border-radius :5px;
+    background    :#02a4ad;
+    padding       :5px 15px;
+}
+button.active {
+    background :#00abff;
+}
+.label {
+    margin-top :15px;
+}
+table {
+    border-spacing :1px;
+    background     :#929196;
+    margin         :0 auto;
+}
+td {
+    width        :20px;
+    height       :20px;
+    border       :2px solid;
+    background   :#cccccc;
+    border-color :#ffffff #a1a1a1 #a1a1a1 #ffffff;
+    font-weight  :bold;
+    text-align   :center;
+    line-height  :20px;
+}
+.mine {
+    background      :#d9d9d9 url("../image/mine.png");
+    background-size :cover;
+}
+.flag {
+    background      :#d9d9d9 url("../image/flag.png");
+    background-size :cover;
+}
+.c0 {
+    border-color :#d9d9d9;
+    background   :#d9d9d9;
+}
+.c1 {
+    border-color :#d9d9d9;
+    background   :#d9d9d9;
+    color        :#02a4ad
+}
+.c2 {
+    border-color :#d9d9d9;
+    background   :#d9d9d9;
+    color        :#ad0d1e
+}
+.c3 {
+    border-color :#d9d9d9;
+    background   :#d9d9d9;
+    color        :#202fad
+}
+.c4 {
+    border-color :#d9d9d9;
+    background   :#d9d9d9;
+    color        :#80ad67
+}
+.c5 {
+    border-color :#d9d9d9;
+    background   :#d9d9d9;
+    color        :#ada22e
+}
+.c6 {
+    border-color :#d9d9d9;
+    background   :#d9d9d9;
+    color        :#62a4ad
+}
+.c7 {
+    border-color :#d9d9d9;
+    background   :#d9d9d9;
+    color        :#5117ad
+}
+.c8 {
+    border-color :#d9d9d9;
+    background   :#d9d9d9;
+    color        :#9caaad
+}
